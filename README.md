@@ -4,6 +4,12 @@
 
 ## Development notes
 
+- Initialize the graphql schema:
+
+```bash
+go run github.com/99designs/gqlgen init
+```
+
 - Update graphql schema:
 
 ```bash
