@@ -8,7 +8,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/hieuminh65/go-micro/graph/model"
+	"github.com/hieuminh65/go-micro/graphql/graph/model"
 )
 
 // CreateAccount is the resolver for the createAccount field.
